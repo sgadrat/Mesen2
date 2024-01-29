@@ -1,7 +1,7 @@
 #include "pch.h"
 #define _WINSOCK_DEPRECATED_NO_WARNINGS
 #include "NES/Mappers/Homebrew/RainbowESP.h"
-//#include "NES/Mappers/Homebrew/pping.h" // TODO: add ping support
+#include "NES/Mappers/Homebrew/pping.h" // TODO: add ping support
 #include "Shared/MessageManager.h"
 #include "Utilities/HexUtilities.h"
 #include "Utilities/CRC32.h"
